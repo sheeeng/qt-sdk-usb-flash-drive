@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Qt in Education Course Material
+
+The Qt in Education Course Material is developed for the purpose of
+teaching Qt at educational institutions. You are now welcome to
+download the first batch of the material.
+
+* Book collection
+
+The course material is split into lectures. Each lecture is meant to
+last 2 x 45 minutes. The lectures include notes for the teacher, and
+exercises for the students to test their skills after the class. There
+is also a larger lab exercise that covers the content of the four
+lectures posted so far.
+
+All teachers and others interested, are encouraged to register to
+receive information about updates and topics related to Qt in
+Education.
+
+A total of ten lectures are planned, of which the first four listed
+are available on this memory stick:
+
+    * L1: The ideas behind Qt and live demo
+    * L2: The Qt object model and the signal slot concept
+    * L3: Widgets and layouts
+    * L4: Datatypes collections and files
+    * Lab covering L1-L4 topics
+    * Custom Widgets
+    * The Graphics View Canvas
+    * Graphics View Effects
+    * An Introduction to the Model View Framework
+    * Custom Models
+    * Networking
+
+Please provide feedback either by posting a message to the forum or by
+contacting us directly.
+
+License information
+
+The Qt in Education Course Materials are provided under the Creative
+Commons Attribution-Non-Commercial-Share Alike 2.5 License Agreement.
+
+The full license text is available here:
+http://creativecommons.org/licenses/by-nc-sa/2.5/legalcode.
+
+Nokia, Qt and the Nokia and Qt logos are the registered trademarks of
+Nokia Corporation in Finland and other countries worldwide.
+
+The updated course material is publiched on this web address:
+http://qt.nokia.com/services-partners/qt-in-education/qt-in-education-course-material

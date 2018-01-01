@@ -1,0 +1,20 @@
+Course Material L1 to L4: 
+http://qt.nokia.com/services-partners/qt-in-education/files/qtcoursematerial_l1-l4.zip
+
+Qt SDK for Open Source C++ development on Windows 
+http://get.qt.nokia.com/qtsdk/qt-sdk-win-opensource-2010.03.exe 
+
+Qt SDK for Open Source C++ development on Mac OS 
+http://get.qt.nokia.com/qtsdk/qt-sdk-mac-opensource-2010.03.dmg
+
+Qt SDK for Open Source C++ development on Linux/X11 32-bit
+http://get.qt.nokia.com/qtsdk/qt-sdk-linux-x86-opensource-2010.03.bin
+
+Qt SDK for Open Source C++ development on Linux/X11 64-bit
+http://get.qt.nokia.com/qtsdk/qt-sdk-linux-x86_64-opensource-2010.03.bin 
+
+Home page for course material: 
+http://qt.nokia.com/services-partners/qt-in-education
+
+Home page for Open Source versions of Qt SDK: 
+http://qt.nokia.com/downloads

@@ -1,0 +1,34 @@
+On this Qt memory stick you'll find Qt SDK for Windows, Mac and Linux
+
+Simple install instructions on Linux: 
+
+* Qt SDK for Linux/X11 32-bit 
+
+    On Linux/Unix, you need to make the file executable in order to
+    run it. You can either do this with your desktop's file manager
+    or, at the command line, type:
+
+    chmod u+x qt-sdk-linux-x86-opensource-2010.03.bin
+
+    You should now be able to execute the file as normal. You can do
+    this from the command line by typing:
+
+    ./qt-sdk-linux-x86-opensource-2010.03.bin
+
+* Qt SDK for Linux/X11 64-bit 
+
+   On Linux/Unix, you need to make the file executable in order to run
+   it. You can either do this with your desktop's file manager or, at
+   the command line, type:
+
+   chmod u+x qt-sdk-linux-x86_64-opensource-2010.03.bin
+
+   You should now be able to execute the file as normal. You can do
+   this from the command line by typing:
+
+   ./qt-sdk-linux-x86_64-opensource-2010.03.bin
+
+For this or newer versions of Qt SDK, please download from here:
+
+   http://qt.nokia.com/downloads
+
